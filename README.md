@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tvborkar1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ebObRJiCfA4q1NsDBeza79UjkRl91WXU/view?usp=sharing](Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ebObRJiCfA4q1NsDBeza79UjkRl91WXU/view?usp=sharing](https://drive.google.com/file/d/1ebObRJiCfA4q1NsDBeza79UjkRl91WXU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasvb&show_icons=true&locale=en&layout=compact" alt="tejasvb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasvb&show_icons=true&locale=en" alt="tejasvb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvb&" alt="tejasvb" /></p>
 
 
