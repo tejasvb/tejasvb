@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tvborkar1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ebObRJiCfA4q1NsDBeza79UjkRl91WXU/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ebObRJiCfA4q1NsDBeza79UjkRl91WXU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
