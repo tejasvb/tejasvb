@@ -23,9 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasvb&show_icons=true&locale=en&layout=compact" alt="tejasvb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasvb&show_icons=true&locale=en" alt="tejasvb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvb&" alt="tejasvb" /></p>
 
 
 
