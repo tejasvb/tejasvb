@@ -1,25 +1,45 @@
-<h1 align="center">Hi 👋, I'm Student developer Tejas Borkar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+# 👋 Hi, I'm Tejas Borkar  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvb&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvb" /> </p>
+### 🚀 Backend Engineer | Cloud & Data Systems | Java | Spring Boot | Apache Spark | AWS  
 
-- 🔭 I’m currently **Software Developer At Here Technologies**
+I’m a **Software Engineer** passionate about building **scalable backend systems**, **data pipelines**, and **distributed architectures** that process and improve large datasets efficiently.  
 
-- 🌱 I’m currently learning **Data Analytics, Deep Learning**
+Currently at **HERE Technologies**, I design and deploy **Spring Boot microservices** on **AWS ECS** to orchestrate **Spark-based EMR jobs** for geospatial data processing.  
+I also work on **event-driven architectures** using **AWS SQS, Lambda, and SNS**, improving data accuracy and system reliability.  
 
-- 💬 Ask me about **Android Development, Flutter**
+---
 
-- 📫 How to reach me **tvborkar1234@gmail.com**
+### 🧠 What I Do
+- 🏗️ Build **microservices** and **serverless pipelines** for large-scale geospatial processing  
+- ☁️ Design **cloud-native architectures** using AWS (ECS, EMR, Lambda, SQS, SNS, S3)  
+- ⚙️ Develop **data quality algorithms** to improve geospatial datasets  
+- 🌐 Integrate **RESTful APIs** with **React frontends** for real-time data interaction  
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ebObRJiCfA4q1NsDBeza79UjkRl91WXU/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-borkar-03297b119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-borkar-03297b119/" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack
+**Languages:** Java, Python, Kotlin  
+**Backend:** Spring Boot, REST APIs, Microservices, Apache Spark  
+**Cloud & Data:** AWS (ECS, EMR, S3, Lambda, SQS, SNS, Athena), Elasticsearch  
+**Frontend (Secondary):** React, Flutter, Android Development  
+**Tools:** Git, Docker  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+### 🧭 Current Focus
+- Scaling **geospatial data pipelines**  
+- Learning **system design for distributed architectures**  
+- Exploring **Google Maps APIs and spatial data visualization**
+
+---
+
+### 🌐 Connect With Me
+[💼 LinkedIn](https://www.linkedin.com/in/tejas-borkar-03297b119/) • [🌍 Portfolio](https://tejasvb.github.io/) • [📧 Email](mailto:tvborkar1234@gmail.com)
+
+---
+
+⭐️ *“Build systems that scale — not just in performance, but in clarity and impact.”*  
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasvb&show_icons=true&locale=en&layout=compact" alt="tejasvb" /></p>
 
