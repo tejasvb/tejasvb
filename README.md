@@ -4,7 +4,7 @@
 
 I’m a **Software Engineer** passionate about building **scalable backend systems**, **data pipelines**, and **distributed architectures** that process and improve large datasets efficiently.  
 
-Currently at **HERE Technologies**, I design and deploy **Spring Boot microservices** on **AWS ECS** to orchestrate **Spark-based EMR jobs** for geospatial data processing.  
+Currently at **HERE Technologies (Mumbai)**, I design and deploy **Spring Boot microservices** on **AWS ECS** to orchestrate **Spark-based EMR jobs** for geospatial data processing.  
 I also work on **event-driven architectures** using **AWS SQS, Lambda, and SNS**, improving data accuracy and system reliability.  
 
 ---
@@ -24,12 +24,6 @@ I also work on **event-driven architectures** using **AWS SQS, Lambda, and SNS**
 **Frontend (Secondary):** React, Flutter, Android Development  
 **Tools:** Git, Docker  
 
----
-
-### 🧭 Current Focus
-- Scaling **geospatial data pipelines**  
-- Learning **system design for distributed architectures**  
-- Exploring **Google Maps APIs and spatial data visualization**
 
 ---
 
@@ -39,6 +33,7 @@ I also work on **event-driven architectures** using **AWS SQS, Lambda, and SNS**
 ---
 
 ⭐️ *“Build systems that scale — not just in performance, but in clarity and impact.”*  
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasvb&show_icons=true&locale=en&layout=compact" alt="tejasvb" /></p>
